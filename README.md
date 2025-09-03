@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SannyShankaran
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science,ai
+- 🌱 Eager to learn
 - 💞️ I’m looking to collaborate on Data Analyst Projects
 - 📫 How to reach me here & On Slack
 
