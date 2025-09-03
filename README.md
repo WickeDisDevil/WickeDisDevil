@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SannyShankaran
+- 👋 Hi, I’m @SannyShankaran,ML Engineer
 - 👀 I’m interested in Data Science,ai
 - 🌱 Eager to learn
 - 💞️ I’m looking to collaborate on Data Analyst Projects
